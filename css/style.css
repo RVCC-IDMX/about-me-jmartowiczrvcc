@@ -1,0 +1,14 @@
+body{
+    font-family:Comforta;
+    background-color:#E0CB4C;
+    color:#2F2394;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:Staatliches;
+    font-size:30pt;
+}
+
+header,footer{
+    text-align:center;
+}
