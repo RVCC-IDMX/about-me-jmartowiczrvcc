@@ -12,3 +12,46 @@ h1,h2,h3,h4,h5,h6{
 header,footer{
     text-align:center;
 }
+
+/*Hobbies*/
+
+#hobbies ul li:nth-child(even){
+    color: #000;
+
+}
+
+/*Gallery*/
+
+#gallery{
+
+    border: 2px solid #2F2394;
+}
+
+#gallery img{
+    max-width:100%; 
+}
+
+#jeep{
+    text-align: left;
+}
+
+#trailer{
+    text-align: center;
+}
+
+#mazda{
+    text-align: right; 
+}
+
+#jeep figcaption{
+    text-align: left; 
+}
+
+#trailer figcaption{
+    text-align: center;
+
+}
+
+#mazda figcaption{
+    text-align: right; 
+}
